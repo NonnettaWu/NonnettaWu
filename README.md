@@ -1,8 +1,9 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <a href="https://github.com/NonnettaWu">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NonnettaWu&theme=dracula&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NonnettaWu&theme=tokyonight&show_icons=true">
 </a>
+
 
 ### Hi，很高兴遇见你 👋
 
