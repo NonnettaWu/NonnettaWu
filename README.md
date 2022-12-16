@@ -1,15 +1,11 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-<a href="https://github.com/NonnettaWu">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NonnettaWu&theme=tokyonight&show_icons=true&icon_color=CE1D2D&text_color=718096&border-color= 00ff00">
-</a>
-
-
 ### Hi，很高兴遇见你 👋
 
-- 🧡 BiliBili大学在读且专注于深度学习
+- 🧡 BiliBili大学在读
+- 🤡 热爱深度学习且钟爱YOLO系列
 - 🔨 熟练掌握各类目标检测算法的运行环境配置
-- 📚 我的CSDN博客（CSDN Blog）https://blog.csdn.net/weixin_45463952
+- 📚 我的CSDN博客 https://blog.csdn.net/weixin_45463952
 - 🍬 想彩虹糖
 
 <!-- Gif -->
