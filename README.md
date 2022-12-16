@@ -1,7 +1,7 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
 <a href="https://github.com/NonnettaWu">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=NonnettaWu&theme=tokyonight&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NonnettaWu&theme=tokyonight&show_icons=true&icon_color=CE1D2D&text_color=718096&hide_title=true">
 </a>
 
 
