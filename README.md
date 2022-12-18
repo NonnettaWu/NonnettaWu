@@ -2,7 +2,7 @@
 </h1>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-### 这是计划的一部分，很高兴遇见你 👋
+### Hi，这是计划的一部分，很高兴遇见你 👋
 
 - 🧡 BiliBili大学在读
 - 🔨 热爱深度学习且钟爱于YOLO系列
