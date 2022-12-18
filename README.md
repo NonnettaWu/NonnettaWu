@@ -2,13 +2,14 @@
 </h1>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-### Hello~ 很高兴遇见你 👋
+### Hi~ 很高兴遇见你 👋
 
 - 🧡 BiliBili大学在读
 - 🔨 热爱深度学习且钟爱于YOLO系列
 - 🤡 熟练掌握各类目标检测算法的运行环境配置
 - 📚 我的CSDN博客 https://blog.csdn.net/weixin_45463952
-- 🍬 想彩虹糖
+- 🍬 每天都在想彩虹糖
+- ☀️ 祝王女士逢考必过、轻松上岸
 
 <h1>
 </h1>
