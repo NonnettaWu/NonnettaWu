@@ -1,6 +1,6 @@
 <h1>
 </h1>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+<div align="center"><img src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/Readme.png" /></div>
 
 ### Hi，很高兴遇见你 👋
 
