@@ -16,9 +16,8 @@
 </h1>
 
 <div align="center">
-  <img alt="Tensorflow" src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/Tensorflow.png" width="400" title="Tensorflow">
-  
   <img alt="PyTorch" src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/PyTorch2.png" width="400" title="PyTorch">
+  <img alt="Tensorflow" src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/Tensorflow.png" width="400" title="Tensorflow"> 
 </div>
 
 <div align="center">
