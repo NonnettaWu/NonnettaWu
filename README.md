@@ -2,13 +2,13 @@
 </h1>
 <div align="center"><img src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/Readme.png" /></div>
 
-### Why not training your own DeepLearning_Model today?
+### 👺Why not training your Neural Networks right now?
 
-- 🧡 BiliBili大学在读
-- 🔨 热爱深度学习且钟爱于YOLO系列
+- 🚀 BiliBili大学在读
+- 💖 热爱深度学习且钟爱于YOLO系列
 - 🤡 熟练掌握各类目标检测算法
-- 📚 我的CSDN博客 https://blog.csdn.net/weixin_45463952
-- ☀️ 祝王女士逢考必过、轻松上岸
+- 📑 我的CSDN博客 https://blog.csdn.net/weixin_45463952
+- 💑 祝王女士逢考必过、轻松上岸
 - 🌊 2023期待一场去大海的旅行
 - 🍬 想彩虹糖
 
