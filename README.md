@@ -2,8 +2,6 @@
 </h1>
 <div align="center"><img src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/Readme.png" /></div>
 
-### Hi，很高兴遇见你 👋
-
 - 🧡 BiliBili大学在读
 - 🔨 热爱深度学习且钟爱于YOLO系列
 - 🤡 熟练掌握各类目标检测算法的运行环境配置
