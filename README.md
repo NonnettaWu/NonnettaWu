@@ -2,7 +2,7 @@
 </h1>
 <div align="center"><img src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/Readme.png" /></div>
 
-### 👺Why not training your Neural Networks right now?
+### 👺 Why not training your Neural Networks right now ?
 
 - 🚀 BiliBili大学在读
 - 💖 热爱深度学习且钟爱于YOLO系列
