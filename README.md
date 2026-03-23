@@ -5,10 +5,7 @@
 ### 👺 Why not training your Neural Networks right now ?
 
 - 🚀 BiliBili大学在读
-- 💖 热爱深度学习且钟爱于YOLO系列
-- 🤡 熟练掌握各类目标检测算法
 - 📑 我的CSDN博客 https://blog.csdn.net/weixin_45463952
-- 🌊 2023期待一场面朝大海的旅行
 
 
 <h1>
