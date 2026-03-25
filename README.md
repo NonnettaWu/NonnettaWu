@@ -2,9 +2,10 @@
 </h1>
 <div align="center"><img src="https://github.com/NonnettaWu/NonnettaWu/blob/main/Img/Readme.png" /></div>
 
-### 👺 Why not training your Neural Networks right now ?
+### 👺 Why not playing your FPGA/CPLD board right now ?
 
 - 🚀 BiliBili大学在读
+- 🐌 学习积累FPGA相关知识
 - 📑 我的CSDN博客 https://blog.csdn.net/weixin_45463952
 
 
